@@ -1,0 +1,26 @@
+
+a	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+p
+java:S3008*"URename this field "UPLOAD_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿™ÖÉøÿÿÿÿ
+7	java:S131A""Add a default case to this switch.(â¥ß
+8	java:S131ƒ""Add a default case to this switch.(â¥ß
+d
+java:S1871Ñ"MThis branch's code block is the same as the block for the branch on line 199.(á¢–¬
+N
+java:S1135Ä"2Complete the task associated to this TODO comment.(†ë•×ùÿÿÿÿ
+N
+java:S1135Ì"2Complete the task associated to this TODO comment.(†ë•×ùÿÿÿÿ
+f
+java:S1192;"PDefine a constant instead of duplicating this literal "invalid.request" 5 times.(ùó®—
+i
+java:S1192±"MDefine a constant instead of duplicating this literal "request = {}" 3 times.(”ú…Èÿÿÿÿÿ
+l	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÕøÄøÿÿÿÿ
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÅş¯øÿÿÿÿ
+a
+java:S1301A"KReplace this "switch" statement by "if" statements to increase readability.(â¥ß
+b
+java:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(â¥ß
+@
+java:S2629²"$Invoke method(s) only conditionally.(„ÉÎäùÿÿÿÿ
+@
+java:S2629³"$Invoke method(s) only conditionally.(¿íàúÿÿÿÿ
